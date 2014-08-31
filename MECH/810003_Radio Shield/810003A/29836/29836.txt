@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-05022013-115534";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:/ROOT/10-05022013-115534";"";
+"TIMESTAMP";"04/02/2013 16:49";"";
+"TraceParts.InstanceId";"10-05022013-1155344QD3FNYHDY5HOKIMKLN6DAPUD";"";
+"REFERENCE";"DA04V";"";
+"DESIGN";"DIP switch,DA series,SPST,4 way,r/angle";"";
+"SUPPLIER";"Apem Components";"";
+"RS_STOCK_NUMBER";"7651103";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartStatus";"Published";"";
+"REVISION";"A";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartTitle";"DIP switch,DA series,SPST,4 way,r/angle";"";
+"TraceParts.PartVersion";"1.0.5";"";
